@@ -1,5 +1,5 @@
 //Procedura Carica_Record_F()
-Calciatore Carica_Record_F ()
+calciatore Carica_Record_F ()
 {
 // caricamento e controllo campi del record
 do
